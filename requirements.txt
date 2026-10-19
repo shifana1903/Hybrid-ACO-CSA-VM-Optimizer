@@ -1,0 +1,9 @@
+# Hybrid ACO-CSA - VirtualBox VM resource optimiser
+# Python 3.9+  (tested on Windows 10/11 with VS Code)
+#
+# Install with:   pip install -r requirements.txt
+
+streamlit>=1.32
+numpy>=1.24
+matplotlib>=3.7
+psutil>=5.9
